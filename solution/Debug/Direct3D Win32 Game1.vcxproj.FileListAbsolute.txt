@@ -1,0 +1,30 @@
+C:\Users\maste\Desktop\Direct3D Win32 Game1\Debug\Direct3D Win32 Game1.vcxproj.CopyComplete
+C:\Users\maste\Desktop\Direct3D Win32 Game1\Debug\Direct3D Win32 Game1.exe
+C:\Users\maste\Desktop\Direct3D Win32 Game1\Debug\xapobaseredist.pdb
+C:\Users\maste\Desktop\Direct3D Win32 Game1\Debug\xaudio2_9redist.pdb
+C:\Users\maste\Desktop\Direct3D Win32 Game1\Debug\xaudio2_9redist.dll
+C:\Users\maste\Desktop\Direct3D Win32 Game1 - Copy\Debug\Direct3D Win32 Game1.vcxproj.CopyComplete
+C:\Users\maste\Desktop\Direct3D Win32 Game1 - Copy\Debug\Direct3D Win32 Game1.exe
+C:\Users\maste\Desktop\Direct3D Win32 Game1 - Copy\Debug\xapobaseredist.pdb
+C:\Users\maste\Desktop\Direct3D Win32 Game1 - Copy\Debug\xaudio2_9redist.pdb
+C:\Users\maste\Desktop\Direct3D Win32 Game1 - Copy\Debug\xaudio2_9redist.dll
+C:\Users\maste\Desktop\grf copy shader\Debug\Direct3D Win32 Game1.vcxproj.CopyComplete
+C:\Users\maste\Desktop\grf copy shader\Debug\Direct3D Win32 Game1.exe
+C:\Users\maste\Desktop\grf copy shader\Debug\xapobaseredist.pdb
+C:\Users\maste\Desktop\grf copy shader\Debug\xaudio2_9redist.pdb
+C:\Users\maste\Desktop\grf copy shader\Debug\xaudio2_9redist.dll
+C:\Users\maste\Desktop\grf copy shader - Copy (2)\Debug\Direct3D Win32 Game1.vcxproj.CopyComplete
+C:\Users\maste\Desktop\grf copy shader - Copy (2)\Debug\Direct3D Win32 Game1.exe
+C:\Users\maste\Desktop\grf copy shader - Copy (2)\Debug\xapobaseredist.pdb
+C:\Users\maste\Desktop\grf copy shader - Copy (2)\Debug\xaudio2_9redist.pdb
+C:\Users\maste\Desktop\grf copy shader - Copy (2)\Debug\xaudio2_9redist.dll
+C:\Users\maste\Desktop\shiny ball 2\Debug\Direct3D Win32 Game1.vcxproj.CopyComplete
+C:\Users\maste\Desktop\shiny ball 2\Debug\Direct3D Win32 Game1.exe
+C:\Users\maste\Desktop\shiny ball 2\Debug\xapobaseredist.pdb
+C:\Users\maste\Desktop\shiny ball 2\Debug\xaudio2_9redist.pdb
+C:\Users\maste\Desktop\shiny ball 2\Debug\xaudio2_9redist.dll
+C:\Users\maste\Desktop\solution\Debug\Direct3D Win32 Game1.vcxproj.CopyComplete
+C:\Users\maste\Desktop\solution\Debug\Direct3D Win32 Game1.exe
+C:\Users\maste\Desktop\solution\Debug\xapobaseredist.pdb
+C:\Users\maste\Desktop\solution\Debug\xaudio2_9redist.pdb
+C:\Users\maste\Desktop\solution\Debug\xaudio2_9redist.dll

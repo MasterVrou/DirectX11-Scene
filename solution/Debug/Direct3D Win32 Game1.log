@@ -1,0 +1,43 @@
+﻿  compilation object save succeeded; see C:\Users\maste\Desktop\solution\Debug\colour_ps.cso
+  compilation object save succeeded; see C:\Users\maste\Desktop\solution\Debug\colour_vs.cso
+  compilation object save succeeded; see C:\Users\maste\Desktop\solution\Debug\light_ps.cso
+  compilation object save succeeded; see C:\Users\maste\Desktop\solution\Debug\light_vs.cso
+  compilation object save succeeded; see C:\Users\maste\Desktop\solution\Debug\SkyboxEffect_PS.cso
+  compilation object save succeeded; see C:\Users\maste\Desktop\solution\Debug\SkyboxEffect_VS.cso
+  pch.cpp
+  Camera.cpp
+C:\Users\maste\Desktop\solution\Camera.cpp(111,53): warning C4100: 'lookAt': unreferenced formal parameter
+  DeviceResources.cpp
+  Game.cpp
+C:\Users\maste\Desktop\solution\Game.cpp(81,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\maste\Desktop\solution\Game.cpp(173,34): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\maste\Desktop\solution\Game.cpp(184,34): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\maste\Desktop\solution\Game.cpp(196,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\maste\Desktop\solution\Game.cpp(207,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\maste\Desktop\solution\Game.cpp(218,34): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\maste\Desktop\solution\Game.cpp(136,10): warning C4189: 'time': local variable is initialized but not referenced
+C:\Users\maste\Desktop\solution\Game.cpp(254,10): warning C4189: 'renderTargetView': local variable is initialized but not referenced
+C:\Users\maste\Desktop\solution\Game.cpp(255,10): warning C4189: 'depthTargetView': local variable is initialized but not referenced
+  Input.cpp
+C:\Users\maste\Desktop\solution\Input.cpp(64,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\maste\Desktop\solution\Input.cpp(65,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\maste\Desktop\solution\Input.cpp(98,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\maste\Desktop\solution\Input.cpp(99,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Light.cpp
+  Main.cpp
+  modelclass.cpp
+C:\Users\maste\Desktop\solution\modelclass.cpp(329,27): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\maste\Desktop\solution\modelclass.cpp(302,18): warning C4189: 'nIndex': local variable is initialized but not referenced
+C:\Users\maste\Desktop\solution\modelclass.cpp(302,30): warning C4189: 'tIndex': local variable is initialized but not referenced
+  RenderTexture.cpp
+  Shader.cpp
+  SkyboxEffect.cpp
+C:\Users\maste\Desktop\solution\SkyboxEffect.cpp(67,64): warning C4100: 'value': unreferenced formal parameter
+C:\Users\maste\Desktop\solution\SkyboxEffect.cpp(84,67): warning C4100: 'world': unreferenced formal parameter
+  Generating Code...
+     Creating library C:\Users\maste\Desktop\solution\Debug\Direct3D Win32 Game1.lib and object C:\Users\maste\Desktop\solution\Debug\Direct3D Win32 Game1.exp
+  Direct3D Win32 Game1.vcxproj -> C:\Users\maste\Desktop\solution\Debug\Direct3D Win32 Game1.exe
